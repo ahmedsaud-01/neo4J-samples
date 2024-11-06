@@ -1,0 +1,20 @@
+######  NEO4J 
+NEO4J_URI=
+NEO4J_USERNAME=
+NEO4J_PASSWORD=
+NEO4J_DATABASE=
+
+###### OPEN_API_KEY
+OPEN_AI_API_KEY=
+
+###### CONFIGURATION
+###### FILTERING OF MOVIES ON YEAR BASIS
+MOVIES_FROM_YEAR=1990
+MOVIES_TO_YEAR=2024
+
+###### IMDB URLS FOR DATA SETS
+URL_ACTOR_BASICS=https://datasets.imdbws.com/name.basics.tsv.gz
+URL_TITLE_AKAS=https://datasets.imdbws.com/title.akas.tsv.gz
+URL_TITLE_BASICS=https://datasets.imdbws.com/title.basics.tsv.gz
+URL_TITLE_PRINCIPAL=https://datasets.imdbws.com/title.principals.tsv.gz
+URL_TITLE_RATING=https://datasets.imdbws.com/title.ratings.tsv.gz
